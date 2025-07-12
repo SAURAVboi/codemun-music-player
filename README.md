@@ -1,4 +1,4 @@
-# codemun-music-player
+# Codemun-music-player
 # 🎵 Codemun Music Player – Swiper Card Slider with Audio Controls
 
 **Codemun Music Player** is an open-source music player that features an elegant **Swiper.js card slider** integrated with a fully functional audio player. Designed and developed by **Saurav Yadav**, this player offers a seamless multimedia experience with smooth transitions and interactive controls.
